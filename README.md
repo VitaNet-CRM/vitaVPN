@@ -4,6 +4,8 @@
 
 ## دانلود نسخه v1.0.0
 
+نسخهٔ **۱٫۰٫۰ — ساخت ۴۲** با امضای رسمی برنامه؛ قابل نصب به‌عنوان به‌روزرسانی نسخهٔ قبلی، بدون نیاز به حذف برنامه.
+
 - [arm64-v8a — مناسب بیشتر گوشی‌های جدید](https://github.com/VitaNet-CRM/vitaVPN-Android/releases/download/v1.0.0/vitaVPN-v1.0.0-arm64-v8a.apk)
 - [armeabi-v7a — مناسب گوشی‌های ARM قدیمی ۳۲ بیتی](https://github.com/VitaNet-CRM/vitaVPN-Android/releases/download/v1.0.0/vitaVPN-v1.0.0-armeabi-v7a.apk)
 
