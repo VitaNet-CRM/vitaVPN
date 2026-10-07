@@ -15,13 +15,13 @@
 
 ## ویندوز ۱٫۰٫۶
 
-- [نصب‌کنندهٔ خودکار EXE](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.6/vitaVPN-1.0.6-Setup.exe) — معماری سیستم را تشخیص می‌دهد و MSI مناسب را دریافت و بررسی می‌کند؛ اینترنت لازم است.
-- [Windows x64 — نصب آفلاین MSI](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.6/vitaVPN-1.0.6-x64.msi)
-- [Windows x86 — نصب آفلاین MSI](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.6/vitaVPN-1.0.6-x86.msi)
+- [نصب‌کنندهٔ خودکار EXE](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.9/vitaVPN-1.0.6-Setup.exe) — معماری سیستم را تشخیص می‌دهد و MSI مناسب را دریافت و بررسی می‌کند؛ اینترنت لازم است.
+- [Windows x64 — نصب آفلاین MSI](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.9/vitaVPN-1.0.6-x64.msi)
+- [Windows x86 — نصب آفلاین MSI](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.9/vitaVPN-1.0.6-x86.msi)
 
 فقط یک نصب‌کننده را اجرا کنید. نصب جداگانهٔ .NET لازم نیست. Windows 10/11 x64 و Windows 10 x86 پشتیبانی می‌شوند؛ Windows ARM64 پشتیبانی نمی‌شود. نصب‌کننده‌ها فعلاً امضای Authenticode ندارند. پیش از نصب اتصال VPN را قطع کنید.
 
-[توضیحات انتشار ویندوز](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/v1.0.6) · [هش فایل‌های ویندوز](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.6/SHA256SUMS.txt)
+[توضیحات انتشار ویندوز](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/v1.0.6) · [هش فایل‌های ویندوز](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.9/SHA256SUMS-Windows.txt)
 
 ## تغییرات و بررسی
 
