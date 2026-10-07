@@ -1,36 +1,33 @@
 # vitaVPN — Android & Windows
 
-دانلود رسمی **vitaVPN 1.0.0 برای اندروید و ویندوز** از [یک صفحهٔ مشترک](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/v1.0.0).
+دانلود رسمی از [آخرین انتشار](https://github.com/VitaNet-CRM/vitaVPN/releases/latest)؛ اندروید **۱٫۰٫۵، ساخت ۷۰** و ویندوز **۱٫۰٫۳**.
 
-## ویندوز — ۱٫۰٫۰
+## دانلود اندروید
 
-- [نصب‌کنندهٔ خودکار Windows — EXE](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.0/vitaVPN-1.0.0-Setup.exe): معماری ویندوز را تشخیص می‌دهد و نسخهٔ مناسب ۳۲ یا ۶۴ بیتی را دریافت می‌کند. حدود ۴۸ مگابایت؛ برای دریافت MSI اینترنت لازم است.
-- [Windows x64 — MSI، نصب آفلاین ۶۴ بیت](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.0/vitaVPN-1.0.0-x64.msi): Windows 10/11 با معماری x64؛ حدود ۶۸ مگابایت.
-- [Windows x86 — MSI، نصب آفلاین ۳۲ بیت](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.0/vitaVPN-1.0.0-x86.msi): Windows 10 با معماری x86؛ حدود ۶۴ مگابایت.
+- [گوشی‌های جدید — ARM64](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.5/vitaVPN-1.0.5-arm64-v8a.apk)
+- [گوشی‌های قدیمی — ARM 32-bit](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.5/vitaVPN-1.0.5-armeabi-v7a.apk)
+- [شبیه‌ساز x86_64](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.5/vitaVPN-1.0.5-x86_64.apk)
+- [شبیه‌ساز x86](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.5/vitaVPN-1.0.5-x86.apk)
 
-**فقط یک نصب‌کننده را اجرا کنید.** نصب جداگانهٔ .NET نیاز نیست. پیش از نصب VPNها را خاموش کنید. اگر نسخهٔ آزمایشی ۱٫۱ یا خروجی قبلی ۱٫۰٫۰ نصب است، ابتدا از تنظیمات ویندوز حذفش کنید و سپس خروجی جدید را نصب کنید؛ اطلاعات فعال‌سازی و تنظیمات خارج از پوشهٔ نصب می‌مانند. ARM64 پشتیبانی نمی‌شود.
+حداقل Android 7.0؛ فایل مناسب معماری دستگاه را روی نسخهٔ قبلی نصب کنید.
 
-نسخهٔ ویندوز دارای پروکسی و تونل، مسیرهای مستقیم IP و دامنه، انتخاب سرور، ترافیک و اطلاعات اشتراک، فارسی و انگلیسی، منوی جمع‌شونده، پوستهٔ تیره و روشن و به‌روزرسانی امضاشده است. به‌روزرسانی، فایل سازگار با معماری خود ویندوز را انتخاب می‌کند. برای شروع کد فعال‌سازی حساب خود را وارد کنید.
+## دانلود ویندوز
 
-## اندروید — ۱٫۰٫۰، ساخت ۴۲
+- [Windows x64 — نصب‌کنندهٔ آفلاین MSI](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.5/vitaVPN-1.0.3-x64.msi)
+- [Windows x86 — نصب‌کنندهٔ آفلاین MSI](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.5/vitaVPN-1.0.3-x86.msi)
 
-- [Android arm64-v8a — مناسب بیشتر گوشی‌های جدید](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.0/vitaVPN-v1.0.0-arm64-v8a.apk)
-- [Android armeabi-v7a — گوشی‌های ARM قدیمی ۳۲ بیتی](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.0/vitaVPN-v1.0.0-armeabi-v7a.apk)
+فقط فایل مناسب معماری ویندوز را نصب کنید. نصب جداگانهٔ .NET لازم نیست. Windows ARM64 پشتیبانی نمی‌شود. فایل‌های MSI امضای Authenticode ندارند.
 
-حداقل **Android 7.0 (API 24)**؛ نسخهٔ اندروید با امضای رسمی روی نسخهٔ قبلی نصب می‌شود و نیاز به حذف آن ندارد. هنگام نصب اتصال قطع می‌شود؛ پس از نصب دوباره متصل شوید.
+## تغییرات و بررسی
 
-## اصالت فایل‌ها و سورس
+اعمال سهم مساوی یا وزن دلخواه Pool در اتصال خودکار، حفظ انتخاب دستی و اتصال سالم فعلی، و بهبود انتخاب مقصد جایگزین هنگام اختلال پنل.
 
-هش فایل دانلودشده را با [SHA256SUMS.txt](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.0/SHA256SUMS.txt) مقایسه کنید. نصب‌کننده‌های ویندوز فعلاً امضای Authenticode ندارند.
+اندروید: ۱۰۹۲ آزمون واحد موفق، بررسی امضا و تراز ۱۶ کیلوبایت، اتصال واقعی VPN در شبیه‌ساز Pixel و پاسخ HTTP 204 از داخل VPN تأیید شد. ویندوز: ۱۲۱ بررسی موفق و نصب x64 تأیید شد؛ آزمون اتصال واقعی ویندوز هنوز تکمیل نشده است.
 
-این مخزن برای فایل‌های نصب است. سورس هر دو برنامه **خصوصی و اختصاصی** است. فایل‌های خودکار `Source code (zip)` و `Source code (tar.gz)` فقط محتوای همین مخزن عمومی را دارند و سورس برنامه‌ها نیستند.
+[SHA256SUMS.txt](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.5/SHA256SUMS.txt) برای مقایسهٔ هش فایل‌ها. سورس برنامه‌ها خصوصی است؛ آرشیوهای خودکار GitHub فقط محتوای مخزن دانلود را دارند.
 
 ## English
 
-Official **vitaVPN 1.0.0 for Android and Windows** in [one release](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/v1.0.0).
+Official Android **1.0.5 (build 70)** and Windows **1.0.3** binaries, identical to the CRM release. Automatic connections honor CRM pool distribution; manual selection and healthy existing connections remain preserved. Android requires Android 7.0 or newer. Choose the installer matching your device architecture.
 
-Windows: [automatic EXE setup](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.0/vitaVPN-1.0.0-Setup.exe) detects the OS architecture and downloads the matching verified MSI. Offline installers: [x64 MSI](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.0/vitaVPN-1.0.0-x64.msi) for Windows 10/11 x64, or [x86 MSI](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.0/vitaVPN-1.0.0-x86.msi) for Windows 10 32-bit. Run one installer only. No separate .NET installation is needed. Turn off VPNs before installation. Uninstall earlier 1.1 development builds or the previous 1.0.0 Windows build first. ARM64 is not supported.
-
-Android build 42: [arm64-v8a](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.0/vitaVPN-v1.0.0-arm64-v8a.apk) for modern phones; [armeabi-v7a](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.0/vitaVPN-v1.0.0-armeabi-v7a.apk) for older ARM phones. Requires Android 7.0 or newer; install over the previous Android version.
-
-The sources are private. GitHub-generated archives contain only this public download repository.
+Android: 1,092 unit tests passed; signature/alignment checks and VPN-bound HTTP 204 on the Pixel emulator passed. Windows: 121 checks and x64 installation passed; real Windows VPN connection verification is still pending.
