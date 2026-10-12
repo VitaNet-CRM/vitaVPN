@@ -1,36 +1,25 @@
-# vitaVPN — Android & Windows
+# VitaNet / vitaVPN
 
-دانلود رسمی **اندروید ۱٫۰٫۱۰، ساخت ۷۵** و **ویندوز ۱٫۰٫۸**؛ با پشتیبانی از مسیر جایگزین CRM و IP ثابت هنگام اختلال DNS.
+[صفحهٔ دانلود مشترک اندروید و ویندوز](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/v1.0.11)
 
-## اندروید ۱٫۰٫۱۰
+| اندروید | ویندوز |
+| --- | --- |
+| **VitaNet 1.0.11 — ساخت 76** | **vitaVPN 1.0.9** |
+| [دانلود ARM64](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.11/VitaNet-1.0.11-arm64-v8a.apk) | [نصب خودکار EXE](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.11/vitaVPN-1.0.9-Setup.exe) |
+| [دانلود ARM32](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.11/VitaNet-1.0.11-armeabi-v7a.apk) | [نصب آفلاین x64](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.11/vitaVPN-1.0.9-x64.msi) |
+| [دانلود x86_64](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.11/VitaNet-1.0.11-x86_64.apk) | [نصب آفلاین x86](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.11/vitaVPN-1.0.9-x86.msi) |
+| [دانلود x86](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.11/VitaNet-1.0.11-x86.apk) | Windows 10/11؛ نسخه ARM64 ندارد. |
 
-- [ARM64 — مناسب بیشتر گوشی‌ها](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.10/vitaVPN-1.0.10-arm64-v8a.apk)
-- [ARM 32-bit](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.10/vitaVPN-1.0.10-armeabi-v7a.apk)
-- [x86_64](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.10/vitaVPN-1.0.10-x86_64.apk)
-- [x86](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.10/vitaVPN-1.0.10-x86.apk)
+تغییرات این انتشار:
 
-حداقل Android 7.0؛ فایل مناسب معماری را روی نسخه قبلی نصب کنید. فعال‌سازی حفظ می‌شود و VPN هنگام نصب لحظاتی قطع می‌شود.
+- استفاده از آخرین سرورِ موفق برای همان شبکه، کاهش درخواست‌های تکراری CRM و دریافت اعلان تغییر فهرست سرورها.
+- لغو سریع اتصال در حال راه‌اندازی و کنترل کلیک‌های پشت سر هم؛ اصلاح بسته‌شدن اندروید هنگام لغو سریع.
+- حفظ اتصال سالم هنگام اختلال CRM؛ مسیر جایگزین میلاد و پاسداران با HTTPS معتبر، حتی هنگام اختلال DNS.
+- سابقهٔ شبکه و اپراتور در گزارش‌های CRM؛ تغییر خودکار مقصد برای Pool و حفظ انتخاب سرور ثابت.
+- کارت‌های هم‌اندازه و جمع‌وجورِ انتخاب سرور در ویندوز، با چیدمان فارسی و انگلیسی.
 
-[توضیحات و هش اندروید](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/v1.0.10)
+۱۱۸۶ تست اندروید، دو آزمون واقعی چرخهٔ سرویس اندروید، ۲۵۵ بررسی ویندوز، ۳۷ آزمون مسیر جایگزین و بررسی چیدمان موفق بود. عبور ترافیک روی Pixel و اجرای ویندوز آزمایش شده است. اتصال مجدد وایرگارد روی شبیه‌ساز حدود ۰٫۷ تا ۱ ثانیه و UK حدود ۱٫۸ تا ۲٫۶ ثانیه بود؛ این اعداد تضمین سرعت روی همهٔ شبکه‌ها نیستند. آزمون گوشی فیزیکی، اپراتورهای واقعی و ویندوز x86 روی سخت‌افزار مستقل انجام نشده است. پس از اصلاح نهایی ظاهر، MSI نهایی نصب شد و اتصال واقعی حساب win، عبور ترافیک و چیدمان ویندوز نیز بررسی شد.
 
-## ویندوز ۱٫۰٫۸
+APKها با کلید قبلی امضا شده‌اند؛ نصب روی نسخهٔ قبلی فعال‌سازی را حفظ می‌کند. نصب‌کنندهٔ ویندوز امضای Authenticode ندارد. پیش از نصب، اتصال VPN همان دستگاه را قطع کنید. انتشار فایل‌ها توقف CRM ندارد؛ نصب اپ ممکن است اتصال همان دستگاه را لحظاتی قطع کند. فایل‌های قبلی حفظ می‌شوند؛ اندروید نصب‌شده امکان بازگردانی فوری از راه دور ندارد.
 
-- [نصب‌کننده خودکار EXE](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.8/vitaVPN-1.0.8-Setup.exe) — اینترنت لازم است.
-- [نصب آفلاین x64](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.8/vitaVPN-1.0.8-x64.msi)
-- [نصب آفلاین x86](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.8/vitaVPN-1.0.8-x86.msi)
-
-فقط یکی را نصب کنید. Windows 10/11 x64 و Windows 10 x86 پشتیبانی می‌شوند؛ ARM64 پشتیبانی نمی‌شود. نصب‌کننده‌ها امضای Authenticode ندارند. پیش از نصب VPN همین دستگاه را قطع کنید.
-
-[توضیحات و هش ویندوز](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/v1.0.8)
-
-## تغییرات و بررسی
-
-مسیر جایگزین CRM و IP ثابت با TLS معتبر اضافه شده و پرش صفحه ویندوز هنگام پیام وضعیت اصلاح شده است. جابه‌جایی CRM سرور ثابت مشتری را تغییر نمی‌دهد.
-
-۲۶ بررسی کنترل مسیر اندروید و ۲۸ بررسی ویندوز پس از اصلاح IP موفق بودند. همین ARM64 روی Samsung A73 و همین x64 روی ویندوز مالک نصب و با هش تطبیق داده شدند؛ اتصال واقعی VPN و مسیر جایگزین بررسی شد. آزمون جداگانه روی شبکه فیزیکی سامسونگ و تست دستگاه واقعی همه معماری‌ها تکمیل نیست. جزئیات در توضیحات انتشار آمده است.
-
-نسخه‌های قبلی در [فهرست انتشارها](https://github.com/VitaNet-CRM/vitaVPN/releases) حفظ شده‌اند. سورس برنامه‌ها **خصوصی و اختصاصی** است؛ آرشیوهای خودکار GitHub محتوای مخزن دانلود هستند.
-
-## English
-
-Official Android **1.0.10 (build 75)** and Windows **1.0.8** downloads. CRM failover and fixed-IP routes preserve TLS validation. Windows status notifications no longer shift the page. Choose the file matching your device architecture. Android requires Android 7.0 or newer. Windows ARM64 is unsupported. Application sources are private.
+هش فایل‌ها در **SHA256SUMS.txt** است. سورس برنامه‌ها و زیرساخت خصوصی است؛ آرشیوهای خودکار GitHub فقط محتوای مخزن دانلود هستند.
