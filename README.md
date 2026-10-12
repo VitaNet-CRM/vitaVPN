@@ -1,15 +1,17 @@
 # VitaNet / vitaVPN
 
-[صفحهٔ دانلود مشترک اندروید و ویندوز](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/v1.0.12)
+[صفحهٔ دانلود مشترک اندروید و ویندوز](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/v1.0.13)
 
 # VitaNet — اندروید ۱٫۰٫۱۲ و ویندوز ۱٫۰٫۱۰
 
 دانلود هر دو برنامه در همین صفحه:
 
-- **اندروید VitaNet 1.0.12، ساخت 77:** [ARM64](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.12/VitaNet-1.0.12-arm64-v8a.apk) · [ARM32](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.12/VitaNet-1.0.12-armeabi-v7a.apk) · [x86_64](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.12/VitaNet-1.0.12-x86_64.apk) · [x86](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.12/VitaNet-1.0.12-x86.apk)
-- **ویندوز vitaVPN 1.0.10:** [نصب خودکار EXE](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.12/vitaVPN-1.0.10-Setup.exe) · [MSI آفلاین x64](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.12/vitaVPN-1.0.10-x64.msi) · [MSI آفلاین x86](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.12/vitaVPN-1.0.10-x86.msi)
+- **اندروید VitaNet 1.0.13، ساخت 78:** [ARM64](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.13/VitaNet-1.0.13-arm64-v8a.apk) · [ARM32](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.13/VitaNet-1.0.13-armeabi-v7a.apk) · [x86_64](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.13/VitaNet-1.0.13-x86_64.apk) · [x86](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.13/VitaNet-1.0.13-x86.apk)
+- **ویندوز vitaVPN 1.0.10:** [نصب خودکار EXE](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.13/vitaVPN-1.0.10-Setup.exe) · [MSI آفلاین x64](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.13/vitaVPN-1.0.10-x64.msi) · [MSI آفلاین x86](https://github.com/VitaNet-CRM/vitaVPN/releases/download/v1.0.13/vitaVPN-1.0.10-x86.msi)
 
-تغییر اصلی: دریافت اطلاعات به‌روزرسانی و فایل نصب از هر دو CRM. اولویت اولیه دامنهٔ میلاد، IP ثابت میلاد، سپس دامنه و IP پاسداران است؛ اتصال با IP نام دامنه و بررسی معتبر TLS را حفظ می‌کند. مسیر سالم جایگزین برای مدت محدود ترجیح داده می‌شود تا درخواست‌های شکست‌خورده تکرار نشوند، سپس میلاد دوباره امتحان می‌شود.
+اصلاح این نسخه: بسته‌بندی فشردهٔ کتابخانه‌های native بازگردانده شد؛ فایل ARM64 حدود ۲۳٫۵ مگابایت است. خود فایل‌های native پس از استخراج همان باینری‌های قبلی‌اند. ویندوز ۱٫۰٫۱۰ در این صفحه همان خروجی تأییدشدهٔ قبلی است و دوباره ساخته نشده است.
+
+تغییرات مسیر به‌روزرسانی از نسخهٔ قبل حفظ شده‌اند: دریافت اطلاعات به‌روزرسانی و فایل نصب از هر دو CRM. اولویت اولیه دامنهٔ میلاد، IP ثابت میلاد، سپس دامنه و IP پاسداران است؛ اتصال با IP نام دامنه و بررسی معتبر TLS را حفظ می‌کند. مسیر سالم جایگزین برای مدت محدود ترجیح داده می‌شود تا درخواست‌های شکست‌خورده تکرار نشوند، سپس میلاد دوباره امتحان می‌شود.
 
 خطای موقت ارتباط یا سرور می‌تواند دانلود را به میزبان دیگر منتقل کند؛ لغو کاربر، خطای گواهی، امضا یا هش فایل به‌عنوان خرابی شبکه پنهان نمی‌شود. فعال‌سازی، انتخاب آخرین مقصد موفق برای همان شبکه، سرور ثابت، دریافت تغییر فهرست مقصدها، ظاهر جمع‌وجور و حفظ اتصال سالم هنگام اختلال CRM از نسخهٔ قبلی حفظ شده‌اند.
 
