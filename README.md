@@ -24,8 +24,8 @@ APK همان معماری را روی نسخهٔ اصلی قبلی نصب کنی
 
 # Windows 1.0.25
 
-[دانلود نسخهٔ اصلی ویندوز از GitHub](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/windows-v1.0.25) · [دانلود MSI ویندوز ۶۴ بیتی از سایت](https://app.barfisho.ir/downloads/windows/vitaVPN-1.0.25-x64.msi) · [دانلود MSI ویندوز ۳۲ بیتی از سایت](https://app.barfisho.ir/downloads/windows/vitaVPN-1.0.25-x86.msi)
+[دانلود نسخهٔ اصلی ویندوز از GitHub](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/v1.0.25) · [دانلود MSI ویندوز ۶۴ بیتی از سایت](https://app.barfisho.ir/downloads/windows/vitaVPN-1.0.25-x64.msi) · [دانلود MSI ویندوز ۳۲ بیتی از سایت](https://app.barfisho.ir/downloads/windows/vitaVPN-1.0.25-x86.msi)
 
-نمایش فهرست و پینگ سرورها، اتصال مجدد پروکسی، بازشدن پنجره پس از نصب و دکمهٔ دریافت نسخهٔ جدید بهبود یافته‌اند. فعال‌سازی و تنظیمات هنگام ارتقا حفظ می‌شوند. حذف کامل برنامه داده‌های محلی خودش را پاک می‌کند.
+دکمهٔ دریافت نسخهٔ جدید روی صفحهٔ خانه، درصد دانلود و دکمهٔ لغو را در همان صفحه نشان می‌دهد. اگر نسخهٔ اول ۱.۰.۲۵ را نصب کرده‌اید، MSI اصلاح‌شده را دستی اجرا کنید.
 
-Source revision: `e51f9925d60c537d9dab640f6d7a806e36eade89`.
+Source revision: `22df833d7c5c90014c5791bc56676a259a788ddb`.
