@@ -1,8 +1,10 @@
 # VitaNet / vitaVPN
 
+نسخه‌های اصلی منتشرشده: **Windows 1.0.24** و **Android 1.0.23، ساخت ۱۴۱**؛ فایل‌های هر دو در [انتشار مشترک](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/windows-v1.0.24) قرار دارند.
+
 ## Android 1.0.23 — build141
 
-[دانلود نسخهٔ اصلی اندروید](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/android-v1.0.23-141)
+[دانلود نسخهٔ اصلی اندروید](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/windows-v1.0.24)
 
 نسخهٔ اصلی اندروید 1.0.23 — ساخت۱۴۱ اصلاح‌شده
 
