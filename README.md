@@ -2,15 +2,15 @@
 
 آخرین نسخه‌های اصلی برای اندروید و ویندوز.
 
-## اندروید **1.0.24** · ساخت ۱۴۲
+## اندروید **1.0.26** · ساخت ۱۴۷
 
-[دریافت APK از GitHub](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/android-v1.0.24-142) · [صفحهٔ دانلود سایت](https://app.barfisho.ir/apps)
+[دریافت APK از GitHub](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/android-v1.0.26-147) · [صفحهٔ دانلود سایت](https://app.barfisho.ir/apps)
 
 فایل‌ها برای چهار معماری ارائه می‌شوند. برای حفظ فعال‌سازی و تنظیمات، APK مناسب دستگاه را روی نسخهٔ قبلی نصب کنید. حداقل نسخهٔ موردنیاز Android 7.0 است.
 
-## ویندوز **1.0.26**
+## ویندوز **1.0.28**
 
-[نصب‌کننده و فایل‌های MSI در GitHub](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/windows-v1.0.26) · [MSI ۶۴ بیتی از سایت](https://app.barfisho.ir/downloads/windows/vitaVPN-1.0.26-x64.msi) · [MSI ۳۲ بیتی از سایت](https://app.barfisho.ir/downloads/windows/vitaVPN-1.0.26-x86.msi)
+[نصب‌کننده و فایل‌های MSI در GitHub](https://github.com/VitaNet-CRM/vitaVPN/releases/tag/windows-v1.0.28) · [MSI ۶۴ بیتی از سایت](https://app.barfisho.ir/downloads/windows/vitaVPN-1.0.28-x64.msi) · [MSI ۳۲ بیتی از سایت](https://app.barfisho.ir/downloads/windows/vitaVPN-1.0.28-x86.msi)
 
 ## پایداری دریافت اطلاعات از CRM
 
